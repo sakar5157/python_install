@@ -1,4 +1,4 @@
-# Basic Python Training
+# Basic Python Installation
 
 This repository is created for the basic installation information of python for beginners.
 
