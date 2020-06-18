@@ -6,7 +6,7 @@ This repository is created for the basic installation information of python for 
 
 **Note that we are using python 3 and not python 2 for this training as python 2 has reached EOL and wont be supported anymore**
 
-  - [Installing required programs for this training](#installing-required-programs-for-this-training)
+  - [Installing required programs for this ](#installing-required-programs-for-this)
     - [For Windows Users](#for-windows-users)
     - [For Linux Users](#for-linux-users)
 
@@ -20,7 +20,7 @@ This repository is created for the basic installation information of python for 
 3. [VSCode](https://cutt.ly/CyQjZlw)
 
 
-Alongside python you need to install pip as well for that open a command promp in the repo's folder and run following command
+Alongside python you need to install pip as well for that open a command promp in the repo's folder and run following command after downloading from above
 
 
 `python get-pip.py`
